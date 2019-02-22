@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    android:paddingBottom="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+  <LinearLayout
+      android:layout_margin="5dp"
+      android:orientation="vertical"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_margin="5dp"
+        android:id="@+id/imageviewfragment"
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+
+    <TextView
+        android:id="@+id/firsttext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_marginTop="3dp"
+        android:textColor="#0C108E"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/secondtext"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginTop="3dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/thirdtext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:gravity="center"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/fourthtext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:gravity="center"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/fifthtext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:gravity="center"
+        android:layout_marginTop="3dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/sixthtext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:gravity="center"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/seventhtext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:gravity="center"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/eighthtext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:gravity="center"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/ninethtext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:paddingTop="2dp"
+        android:gravity="center"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/tenthtext"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:textColor="#0C108E"
+        android:gravity="center"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_height="wrap_content" />
+  </LinearLayout>
+
+  </ScrollView>
+</LinearLayout>
